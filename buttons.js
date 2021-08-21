@@ -1,0 +1,1 @@
+$(".register-btn").click(x => console.log("REGISTER"))
